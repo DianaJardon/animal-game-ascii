@@ -6,7 +6,7 @@
 
 #### Imagen de referencia
 
-[aliados](img/1.PNG)
+![aliados](img/1.PNG)
 
 - Mínimo muestra 2 animales a elegir
 - El menú debe tener una opción de salida.
@@ -37,4 +37,4 @@ El menú continuamente está alentando al usuario a que coloque una opción, le 
 - Para mostrar la foto del animal puedes buscar en google "arte ascii" y aparecerán varias opciones. Acá comparto una de esas webs [ASCII Art Animals - asciiart.eu](https://www.asciiart.eu/animals) Puedes usar la web que te guste más.
 
 ### Resolución
-[!aliados](img/2.PNG)
+![aliados](img/2.PNG)
